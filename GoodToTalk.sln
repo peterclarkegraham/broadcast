@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodToTalk", "GoodToTalk\GoodToTalk.csproj", "{D0086EB6-B7AB-42A0-BF2B-C6514C1D8C71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0086EB6-B7AB-42A0-BF2B-C6514C1D8C71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0086EB6-B7AB-42A0-BF2B-C6514C1D8C71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0086EB6-B7AB-42A0-BF2B-C6514C1D8C71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0086EB6-B7AB-42A0-BF2B-C6514C1D8C71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {732B59FE-A248-4A69-B2CB-CF065525CC37}
+	EndGlobalSection
+EndGlobal
